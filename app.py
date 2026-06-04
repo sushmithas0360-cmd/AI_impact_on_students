@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Load Dataset
-df = pd.read_csv("data/ai_student_impact_dataset.csv")
+df = pd.read_csv("ai_student_impact_dataset.csv")
 
 # Title
 st.title("🎓 AI Student Impact Analysis Dashboard")
